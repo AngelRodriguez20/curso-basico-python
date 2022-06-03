@@ -2,7 +2,7 @@
 
 En este curso aprenderas a programar en Pyhton.
 
-![Logo de Python](imagenes\2048px-Python-logo-notext.svg.png)
+![Logo de Python](https://github.com/AngelRodriguez20/curso-basico-python/blob/main/imagenes/2048px-Python-logo-notext.svg.png)
 
 **Requisitos**
 - Python 3.6 o superior 
